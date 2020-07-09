@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a full-stack engineer working across cloud, mobile, and IoT.  
+Watch me code live 😸
+
+![giphy](https://media.giphy.com/media/VekcnHOwOI5So/giphy-downsized.gif)
 
 <!--
 **theaccordance/theaccordance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
