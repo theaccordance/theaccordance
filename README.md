@@ -1,8 +1,4 @@
-### Hi there 👋
-
-Watch me code live 😸
-
-![giphy](https://media.giphy.com/media/VekcnHOwOI5So/giphy-downsized.gif)
+![banner](https://github.com/theaccordance/theaccordance/raw/master/banner.png)
 
 <!--
 **theaccordance/theaccordance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
