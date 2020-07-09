@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a full-stack engineer working across cloud, mobile, and IoT.  
+
 <!--
 **theaccordance/theaccordance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
